@@ -1,0 +1,21 @@
+{
+    "name": "arohimfurqan/yii2-alert",
+    "description": "Widget twitter bootstrap for yii framework 2.0",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","alert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "arohimfurqan",
+            "email": "rohim98@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "arohimfurqan\\alert\\": ""
+        }
+    }
+}
